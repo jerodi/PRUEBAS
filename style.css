@@ -32,6 +32,9 @@ a:hover {
 	color:  #ffffff;
 }
 
+li {
+	text-align: left;
+}
 .container {
 	width: 600px;
 	margin: 40px auto;
