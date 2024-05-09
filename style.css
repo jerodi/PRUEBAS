@@ -27,7 +27,7 @@ a {
 	font-weight: 450;
 	font-size: 20px;
 }
-a:hover {text-decoration:green;}
+a:hover {background-color:green;}
 
 .container {
 	width: 600px;
