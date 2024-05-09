@@ -1,5 +1,5 @@
 /*colors and fonts*/
-body ´{
+body {
 	background: #F7F9FC;
 	color: #575F7D;
 	font-family: 'lora', sans-serif;
@@ -27,7 +27,7 @@ a {
 	font-weight: 450;
 	font-size: 20px;
 }
-a: hover {color:  green;}
+a hover {color:  green;}
 
 .container {
 	width: 600px;
